@@ -1,0 +1,6 @@
+{
+    "uri" : "/users/googleoauth",
+    "querystring": {},
+    "headers" : {},
+    "body" : "{\"token\":<id_token>,\"tenantId\":\"<tenantName>\",\"type\":\"google\"}"
+}

@@ -1,0 +1,3 @@
+com.b2.pageobject.dashboard.DashboardPage.pageTitle= xpath=//div[contains(string(),"Logout")]
+
+#com.b2.pageobject.dashboard.DashboardPage.pageTitle= xpath=//span[contains(string(),"KEY SEGMENT")]

@@ -1,0 +1,11 @@
+{
+    "uri" : "/salesforce/incremental-sync-account",
+    "querystring": {
+        "secret": "<secret>",
+        "tenantId": "<tenant_id>"
+    },
+    "headers" : {
+        "Cookie": "<cookie>"
+        },
+   "body" : "{\"new\":[{\"cogn__needs_to_be_Synced_with_Cognism__c\":false,\"LastModifiedDate\":\"2022-04-14T07:35:25.000+0000\",\"cogn__Matching_Keys__c\":\"qatest|qa2334testqa2334testing272.com|qa2334testing272.com\",\"SFSSDupeCatcher__Override_DupeCatcher__c\":false,\"B2Sync__c\": <b2sync>,\"Subregion__c\":\"USA\",\"Whether_Online__c\":false,\"Website\":\"<website>\",\"QSR_Franchisee__c\":false,\"Account_Relationship__c\":\"Customer\",\"Name\":\"<name>\",\"Industry\":\"Auto Parts\",\"Strategic_Account__c\":false,\"ARR_I_S__c\":0,\"Total_Contract_Value__c\":0,\"CreatedById\":\"0059I00000063mPQAQ\",\"OwnerId\":\"0059I00000063mPQAQ\",\"Roll_Up__c\":0,\"To_be_assigned__c\":false,\"Omnichannel__c\":false,\"IsDeleted\":false,\"Primary_Vertical__c\":false,\"Top_Target_Account__c\":false,\"ICP__c\":false,\"CurrencyIsoCode\":\"USD\",\"SystemModstamp\":\"2022-04-14T07:35:25.000+0000\",\"Live_On_Support__c\":false,\"Type\":\"B2C Retailer\",\"Focus_Account__c\":false,\"Account_unique_id_18_digit__c\":\"<accountuuid>\",\"CreatedDate\":\"2022-04-14T07:35:25.000+0000\",\"Sales_Region__c\":\"Americas\",\"Id\":\"<accountuuid>\",\"LastModifiedById\":\"0059I00000063mPQAQ\",\"Pure_Play_Online__c\":false,\"dupcheck__dc3DisableDuplicateCheck__c\":false}],\"old\":[],\"userId\":\"0059I00000063mPQAQ\"}"
+}

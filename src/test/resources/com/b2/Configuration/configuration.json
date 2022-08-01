@@ -1,0 +1,29 @@
+
+{
+    "grid" : false,
+    "environment" : "dev",
+    "browser": "chrome",
+    "tenant" : "airtel",
+    "selenium_host_ip" : "httmp://localhost",
+    "selenium_host_port" : 4444,
+    "remote_host_ip" : "http://xyz.com",
+    "remote_host_port" : "",
+    "browserstack_user" : "",
+    "browserstack_key" : "",
+    "retry_count" :  3,
+    "chrome_profile_dir" : "C:/Users/aishwarya/Downloads/chromedriver_win32/chromedriver",
+    
+    "download_dir" : "C:/automation_download",
+    "dev": {
+        "url": "http://login.bamboobox.in/",
+        "timeout": "60"
+    },
+    "qa": {
+        "url": "https://login.bamboobox.net/",
+        "   timeout": "30"
+    },
+    "prod": {
+        "url": "https://login.bamboobox.ai/#/",
+        "timeout": "60"
+    }
+}

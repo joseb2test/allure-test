@@ -1,0 +1,12 @@
+
+{
+    "tenant" : "Capillary Technologies",
+    "gmail_id" : "cicdtestpipeline@gmail.com",
+    "gmail_password":"abcd@1234",
+    "mailchimp_uri" : "https://b2mailchimpsyncapi.bamboobox.net", 
+    "tenant_id" : "e4ee71f8-8fbc-11ec-b909-0242ac120002",
+    "icp": {
+        "name": "ICP_ABCD",
+        "description": "ICP ABCD DESC"
+    }
+}
