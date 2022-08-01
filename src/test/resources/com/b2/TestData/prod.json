@@ -1,8 +1,0 @@
-
-{
-    "tenant" : "tvs",
-    "icp": {
-        "name": "ICP_ABCD",
-        "description": "ICP ABCD DESC"
-    }
-}

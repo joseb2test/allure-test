@@ -1,6 +1,0 @@
-{
-    "uri" : "/token",
-    "querystring": {},
-    "headers" : {},
-    "body" : "{\"grant_type\":\"refresh_token\",\"client_id\":\"159174342367-d9b3fhsls22kae1522q4cbr00a5v974g.apps.googleusercontent.com\",\"client_secret\":\"4Py4qJJHtjSX-bqfRilfMXk7\",\"refresh_token\":\"1//04oko1s6282nyCgYIARAAGAQSNwF-L9IrMPV4O8RV6LXsgL07aB4u_umZwLReKHxxiP11iofVm87OQpDLljMT2pbzXE-Elyk9XDA\"}"
-}
