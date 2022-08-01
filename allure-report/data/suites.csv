@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 14 14:44:42 IST 2022","Thu Jul 14 14:46:06 IST 2022","83192","","Scoring Configuration","","Create an ICP with all the available attributes","","Create an ICP with all the available attributes","    This feature file contains all the scenarios related to ICP Creation, Updation and Deletion"
